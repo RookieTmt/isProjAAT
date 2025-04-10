@@ -15,7 +15,7 @@ Lost and Found counters are not efficient in daily life, due to being very small
 
 # 🛠 Our Approach / How We Plan to Solve It:
 Have 3 main pages/portals:
-1. A search portal to be able to give as much information related to the lost item, based on filters mainly for type, location, time.
+1. A search portal to be able to give as much information as possible- related to the lost item, based on filters mainly for type, location, time.
 2. A home page to display lost items in general, for a given Area.
 3. An option to add entries for lost items, again with filters/tags. 
 
