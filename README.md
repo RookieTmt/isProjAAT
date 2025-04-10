@@ -11,7 +11,7 @@
 ---
 
 # 🔍 What We Understood from the Problem Statement:
-Lost and Found counters are not efficient in daily life, due to being very small scale, having poor networking, reach and items in the first place. However a lot of valuable items end up lost, and to make Lost and Found counters fulfill their purpose, an Online Lost and Found Platform can be a huge improvement to the whole idea, with Images, Descriptions, Locations, Time being listed, helping people find lost items. The point being gettting all the scattered information about lost items onto one highly accessible platform.
+Lost and Found counters are not efficient in daily life, due to being very small scale, having poor networking, reach and items in the first place. However a lot of valuable items end up lost, and to make Lost and Found counters fulfill their purpose, an Online Lost and Found Platform can be a huge improvement to the whole idea, with Images, Descriptions, Locations, Time being listed, helping people find lost items. The point being getting all the scattered information about lost items onto one highly accessible platform.
 
 # 🛠 Our Approach / How We Plan to Solve It:
 Have 3 main pages/portals:
